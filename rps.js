@@ -77,7 +77,7 @@ function playRound(humanChoice, computerChoice)
         console.log("Computer Wins!");
      }
      else{
-        console.log("its a tie!");
+        console.log("It's a tie!");
      }
  }
  
